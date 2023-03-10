@@ -10,7 +10,7 @@
 
 .container{
     padding: 100px;
-    height: 100vh;
+    height: 100vh - 80px;
     background-color: rgb(47, 50, 51);
     display: flex;
     flex-wrap: wrap;
@@ -145,7 +145,7 @@ i:hover{
 
 
 .arrow{
-    font-size: 10px;
+    font-size: 14px;
 }
 
 
